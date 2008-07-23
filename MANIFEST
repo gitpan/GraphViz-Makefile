@@ -7,4 +7,3 @@ t/Make-subst
 t/Make-nosubst
 tkgvizmakefile
 README
-META.yml                                 Module meta-data (added by MakeMaker)
