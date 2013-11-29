@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               GraphViz-Makefile
-version:            1.16_50
+version:            1.17
 abstract:           Create Makefile graphs using GraphViz
 author:
     - Slaven Rezic <srezic@cpan.org>
